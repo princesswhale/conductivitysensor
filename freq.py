@@ -1,4 +1,4 @@
-#Basic Python Frequency Counter
+#Frequency to Conductivity Converter
 
 import RPi.GPIO as GPIO # Import Raspberry Pi GPIO library
 import time 
