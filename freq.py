@@ -6,6 +6,7 @@ import time
 GPIO.setwarnings(False) # Disable warnings
 GPIO.setmode(GPIO.BCM) # Use BCM pin numbering
 
+#Reads from GPIO4/physical pin 7
 input_signal = 4
 end_time = 0
 start_time = 0
